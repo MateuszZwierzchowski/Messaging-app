@@ -1,2 +1,1 @@
-# Messenger
 Simple messaging app
